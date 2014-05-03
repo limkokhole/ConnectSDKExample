@@ -24,4 +24,4 @@ ConnectSDK by LG
 
 https://github.com/ConnectSDK/Connect-SDK-Android/archive/master.zip
 
-Once you have above installed, correct the library location for the Connect-SDK-Android-Master under properties.
+Once you have above installed, correct the library locations in Connect-SDK-Android (adding appcompat, mediarouter, and play-services) - then add Connect-SDK-Android to this project.
